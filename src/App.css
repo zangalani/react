@@ -1,0 +1,12 @@
+.box{
+    border: 1px seagreen solid;
+    height: 200px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 15%;
+    background: #000;
+    color:#fff;
+}
+.pic,.tem{
+    display: inline;
+}
